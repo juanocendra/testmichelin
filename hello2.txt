@@ -1,2 +1,4 @@
 hola otra vez
+soy un nuevo usuario
+otra cosa nueva
 estoy modificando por segunda vez
