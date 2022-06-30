@@ -67,6 +67,7 @@ Once the feature is complete, you can then merge (only using a pull request) it 
 - git reset --hard origin/**develop** 
 - git checkout (feature/hotfix/improvement/fix)/BSM-XXXX-Jira-description 
 - git rebase -i **develop** #pick or reword the first line, fixup the rest 
+  - A VM editor is going to be opened, use [esc]+[:]+[i] to edit the commits, if there is nothing to commit, finish the edition with [esc]+[:]+[wq]
 - git push -f origin (feature/hotfix/improvement/fix)/BSM-XXXX-Jira-description 
 
 •	Merge to **develop** (or version branch) 
