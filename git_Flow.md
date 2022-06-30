@@ -71,6 +71,6 @@ Once the feature is complete, you can then merge (only using a pull request) it 
 
 •	Merge to **develop** (or version branch) 
 
-Once your branch is rebased, you're ready to merge your finished code only using a Pull Request. 
+Once your branch is rebased, you're ready to merge your finished code only using a Pull Request.  
 
  
